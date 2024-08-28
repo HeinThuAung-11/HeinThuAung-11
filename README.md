@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinThuAung-11&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeinThuAung-11&theme=radical)
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/pin/?username=HeinThuAung-11&repo=contributions&show_icons=true&theme=radical)
+![Total Commits](https://github-readme-stats.vercel.app/api?username=HeinThuAung-11&count_private=true&show_icons=true&hide=contribs,issues&include_all_commits=true&theme=radical)
 
 ## 📫 Connect with Me
 
