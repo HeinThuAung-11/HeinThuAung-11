@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hein-thu-aung-994595179/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hein-thu-aung-994595179/])
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:heinthu92001@gmail.com)
 
 ## 🎨 Recent Projects
