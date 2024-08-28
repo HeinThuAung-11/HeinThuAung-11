@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 - 💬 Ask me about **JavaScript, TypeScript, React, or Node.js**.
 - 📫 How to reach me: **heinthu92001@gmail.com**.
 - ⚡ Fun fact: **I can debug code in my dreams!**.
+- 🌐 Check out my portfolio: [My Portfolio]([https://heinthuaung.netlify.app/])
 
 ## 🛠️ Technologies & Tools
 
@@ -20,6 +21,13 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
@@ -28,6 +36,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeinThuAung-11&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinThuAung-11&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeinThuAung-11&theme=radical)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/pin/?username=HeinThuAung-11&repo=contributions&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
