@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 - 💬 Ask me about **JavaScript, TypeScript, React, or Node.js**.
 - 📫 How to reach me: **heinthu92001@gmail.com**.
 - ⚡ Fun fact: **I can debug code in my dreams!**.
-- 🌐 Check out my portfolio: [My Portfolio]([https://heinthuaung.netlify.app/])
+- 🌐 Check out my portfolio: [My Portfolio](https://heinthuaung.netlify.app/)
 
 ## 🛠️ Technologies & Tools
 
@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeinThuAung-11&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinThuAung-11&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeinThuAung-11&theme=radical)
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/pin/?username=HeinThuAung-11&repo=contributions&show_icons=true&theme=radical)
