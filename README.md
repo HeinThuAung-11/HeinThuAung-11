@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 
 - 🎓 I’m currently pursuing a Master's degree in **Computer Science**.
 - 🌱 I’m currently deepening my knowledge in **TypeScript and Next.js**.
-- 👯 I’m looking to collaborate on **full-stack web development projects**.
-- 💬 Ask me about **JavaScript, TypeScript, React, or Node.js**.
 - 📫 How to reach me: **heinthu92001@gmail.com**.
 - ⚡ Fun fact: **I can debug code in my dreams!**.
 - 🌐 Check out my portfolio: [My Portfolio](https://heinthuaung.netlify.app/)
