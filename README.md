@@ -45,14 +45,6 @@ I enjoy building scalable, modern web applications with clean UI and solid archi
 
 ---
 
-## 🎨 Featured Projects
-
-[![Hotel Booking](https://github-readme-stats.vercel.app/api/pin/?username=HeinThuAung-11&repo=HotelBooking&theme=radical)](https://github.com/HeinThuAung-11/HotelBooking)
-
-[![Photo Gallery](https://github-readme-stats.vercel.app/api/pin/?username=HeinThuAung-11&repo=photo-gallery&theme=radical)](https://github.com/HeinThuAung-11/photo-gallery)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hein-thu-aung-994595179/)
